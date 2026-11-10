@@ -1,5 +1,5 @@
 {
-    "name": "simonridley/tracking-code-manager",
+    "name": "kbotticelli/tracking-code-manager",
     "keywords": [
         "statamic",
         "addon",
@@ -16,8 +16,8 @@
     "type": "statamic-addon",
     "authors": [
         {
-            "name": "Simon Ridley",
-            "email": "statamic@simonridley.co.uk",
+            "name": "K Botticelli",
+            "email": "kbotticelli@microform.co.uk",
             "role": "Developer"
         }
     ],
